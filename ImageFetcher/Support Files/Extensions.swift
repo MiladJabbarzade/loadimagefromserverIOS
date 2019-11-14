@@ -2,8 +2,8 @@
 //  Extensions.swift
 //  ImageFetcher
 //
-//  Created by Alex Akrimpai on 09/02/2018.
-//  Copyright © 2018 CodingWarrior. All rights reserved.
+//  Created by meelad jabbarzade on today.
+//  Copyright © 2019 meelad jabbarzade. All rights reserved.
 //
 
 import UIKit
